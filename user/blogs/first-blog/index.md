@@ -1,3 +1,13 @@
+---
+title: 博客地址变更
+summary: ✍️ 之后的文章都会发布在新博客系统里，旧服务不再进行维护。
+published: '2022-18-01T00:00:00.000+08:00'
+cover: ./cover.jpg
+coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+tags:
+  - [Markdown]
+---
+
 ## 🎉 博客
 
 [旧博客](https://www.yancyyu.club/blog/) 是我最初的博客系统，基于wordpress开发，现在发现一款更适合程序员的博客轻量级系统，现在已经迁移过来。
