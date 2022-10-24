@@ -5,6 +5,8 @@ published: '2022-10-22T14:49:00.000+08:00'
 cover: ./cover.jpg
 tags:
   - [Markdown]
+  - [python]
+  - [asyncio]
 ---
 > 本文主要介绍异步和同步的区别以及实现方式，如何用python实现。
 <kbd>非阻塞</kbd>
