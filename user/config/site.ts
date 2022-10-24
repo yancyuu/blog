@@ -14,9 +14,9 @@ import SiteCover from '$assets/qwer.webp';
 export const siteConfig: Site.Config = {
   url: 'https://www.yancyyu.club/',
   title: "yancyyu's blog",
-  subtitle: '🚀 QBLOG- Built using YancyYu with ❤',
-  description: '🚀 QBLOG- Awesome Blog Starter, Built using SYancyYu with ❤',
-  lang: 'zh',
+  subtitle: '🚀 BLOG- Built using YancyYu with ❤',
+  description: '🚀 BLOG- Awesome Blog Starter, Built using SYancyYu with ❤',
+  lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
   cover: SiteCover,
@@ -40,7 +40,7 @@ export const siteConfig: Site.Config = {
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/yancyuu'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -123,18 +123,14 @@ export const mobilenavConfig: DD.Nav = {
   orientation: 2,
   links: [
     {
-      name: 'About',
-      url: '/about',
-    },
-    {
-      name: 'See Docs 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
-    },
-    {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
-      rel: 'external',
-    },
+    name: 'See Docs 📄',
+    url: 'https://docs-svelte-qwer.vercel.app/',
+    rel: 'external',
+  },
+  {
+    name: 'Get Blog 🚀',
+    url: 'https://github.com/yancyuu/blog.git',
+    rel: 'external',
+  },
   ],
 };
