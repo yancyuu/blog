@@ -1,6 +1,6 @@
 ---
 title: python进阶之异步编程（基础篇）
-summary: ✍️ 本文主要介绍异步和同步的区别以及如何用python实现，最后会结合微服务运行时dapr的python扩展下的异步框架actor作为实例，让你了解到异步更高级的用法。
+summary: ✍️ 本文主要介绍异步和同步的区别以及如何用python实现，高级篇会结合微服务运行时dapr的python扩展下的异步框架actor作为实例，让你了解到异步在微服务中的使用。
 published: '2022-10-22T14:49:00.000+08:00'
 cover: ./cover.jpg
 tags:
