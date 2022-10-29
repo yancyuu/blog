@@ -7,6 +7,7 @@ tags:
   - [Markdown]
   - [python]
   - [asyncio]
+  - [异步编程]
 ---
 > 本文主要介绍异步和同步的区别以及实现方式，如何用python实现。
 <kbd>非阻塞</kbd>
