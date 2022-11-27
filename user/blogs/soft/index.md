@@ -4,7 +4,7 @@ description: Example post written using Markdown Syntax with QWER - Simply Aweso
 summary: 📝 Showcase basic syntax of Markdown and HTML
 published: '2022-08-09T00:00:00.000+08:00'
 updated: '2022-11-15T15:43:00.000+08:00'
-cover: ./cover.jpg
+cover: ./cover.png
 coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags:
   - [Markdown]
@@ -33,7 +33,7 @@ tags:
 #### 1. 订餐中台服务基于python的flask后台web框架，只用来提供公共抽象实体的操作服务，前台服务用于业务层聚合各种实体。
 #### 2. 与收银机的通信采取socketio连接，为了解决分布式容器服务寻不到址的痛点，引入微服务运行时dapr的actor模型。
 #### 3. 分层设计，结构图如下
-![img.png](img.png)
+![img.png](cover.png)
 
 ## 📚 2. 模块设计说明
 
