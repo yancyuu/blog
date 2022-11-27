@@ -59,7 +59,7 @@ tags:
 ![第二步](./2.png)
 
 - Session settings ->Termina settings -> Use Windows PATH
-![第三步](./3.png)
+
 > tips:因为之前我在gitbash的初始化加载文件~/.bash_profile中增加了很多自定义shell语句，这里不会自动应用，需要source一下，如下图
 
 ![修改自定义启动文件后需要重新source](./4.png)
