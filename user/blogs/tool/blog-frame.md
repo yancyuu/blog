@@ -2,7 +2,7 @@
 title: 几个适合程序员博客框架
 summary: ✍ 推荐几个适合程序员的博客框架，快速部署建站 ！！
 published: '2022-10-29T10:45:00.000+08:00'
-cover: ./cover.png
+cover: cover.png
 tags:
   - [Markdown]
   - [tool]
