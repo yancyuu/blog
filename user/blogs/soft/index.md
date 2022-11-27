@@ -1,8 +1,8 @@
 ---
-title: Example Post
-description: Example post written using Markdown Syntax with QWER - Simply Awesome Blog Starter. Built using SvelteKit and Love.
-summary: 📝 Showcase basic syntax of Markdown and HTML
-published: '2022-08-09T00:00:00.000+08:00'
+title: 微服务架构-软著
+description: 基于微服务架构的一个软著信息
+summary: 📝 基于微服务架构的一个软著信息
+published: '2022-11-09T00:00:00.000+08:00'
 updated: '2022-11-15T15:43:00.000+08:00'
 cover: ./cover.png
 coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
