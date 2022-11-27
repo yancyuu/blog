@@ -23,3 +23,8 @@ tags:
 > 实例如下图：[示例链接](https://www.yancyyu.club/blog/)
 
 ![wordpress](/tool/wordpress.jpg)
+
+- 🚀 不定时分享干货，有兴趣的可以关注我公众号。
+
+<div align="center"><img src="https://my-bucket-1259813675.cos-website.ap-guangzhou.myqcloud.com/wordpress/2022/05/20220504120500968-300x300.jpg">
+</div>
