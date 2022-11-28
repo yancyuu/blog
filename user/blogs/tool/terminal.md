@@ -2,7 +2,7 @@
 title: 适合程序员的终端神器
 summary: ✍ 推荐几个适合程序员的开源终端神器
 published: '2022-11-27T08:03:00.000+08:00'
-cover: ../tool/cover.png
+cover: terminal/cover.png
 tags:
   - [Markdown]
   - [tool]
@@ -18,7 +18,7 @@ tags:
 
 ### 界面如下图：风格和win11好搭，颜控爱了
 
-![Tabby](terminal.png)
+![Tabby](terminal/terminal.png)
 
 ### 简单介绍下常用功能
 #### 👷 SSH连接
@@ -41,7 +41,7 @@ tags:
 点击首页的 『Settings』进入设置页面,点击hotkeys就可以设置好多快捷键啦
 我这里常用的是分屏，设置分屏参数示例如下图:
 
-![Tabby分屏](tabby.jpg)
+![Tabby分屏](terminal/tabby.jpg)
 
 ## 2. [MobaXterm](https://mobaxterm.mobatek.net/)
 
@@ -53,16 +53,16 @@ tags:
 #### 👷 内部连接gitbash终端
 
 - Session->newSession,Session settings -> Shell ->Terminal shell 选择 Bash
-![第一步](1.png)
+![第一步](terminal/1.png)
 
 - 修改新建的那个Session属性：Session settings -> Advanced Shell settings -> Distribution 输入git安装路径,如下图- Session settings -> Advanced Shell settings -> Execute the following commands at startup 输入 "C:\Program Files\Git\bin\sh.exe" --login
-![第二步](2.png)
+![第二步](terminal/2.png)
 
 - Session settings ->Termina settings -> Use Windows PATH
 
 > tips:因为之前我在gitbash的初始化加载文件~/.bash_profile中增加了很多自定义shell语句，这里不会自动应用，需要source一下，如下图
 
-![修改自定义启动文件后需要重新source](4.png)
+![修改自定义启动文件后需要重新source](terminal/4.png)
 
 
 🚀 不定时分享干货以及开源工具，有兴趣的可以关注我公众号。
