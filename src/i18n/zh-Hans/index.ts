@@ -1,8 +1,8 @@
 import type { Translation } from '../i18n-types';
 
 const zh_Hans: Translation = {
-  Tags: '标籤',
-  FilterTags: '过滤标籤...',
+  Tags: '标签',
+  FilterTags: '过滤标签...',
   TableOfContent: '目录',
   LoadingPosts: '读取文章列表中...',
   LoadingPost: '读取文章中...',

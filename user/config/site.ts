@@ -16,7 +16,7 @@ export const siteConfig: Site.Config = {
   title: 'QWER',
   subtitle: '🚀 QWER - Built using Svelte with ❤',
   description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
-  lang: 'en',
+  lang: 'zh-Hans',
   timeZone: 'Asia/Taipei',
   since: 2022,
   cover: SiteCover,
@@ -102,7 +102,7 @@ export const giscusConfig: Giscus.Config = {
   emitMetadata: '0',
   inputPosition: 'top',
   loading: 'lazy',
-  lang: 'en',
+  lang: 'zh-Hans',
   'data-strict': '0',
 };
 
