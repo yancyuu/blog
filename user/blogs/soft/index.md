@@ -5,7 +5,6 @@ summary: 📝 基于微服务架构的一个软著信息
 published: '2022-11-09T00:00:00.000+08:00'
 updated: '2022-11-15T15:43:00.000+08:00'
 cover: ./cover.png
-language: 中文
 coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags:
   - [Markdown]

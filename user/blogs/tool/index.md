@@ -3,7 +3,6 @@ title: 适合程序员的终端神器
 summary: ✍ 推荐几个适合程序员的开源终端神器
 published: '2022-11-27T08:03:00.000+08:00'
 cover: ./cover.jpg
-language: 中文
 tags:
   - [Markdown]
   - [tool]
