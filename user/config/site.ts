@@ -12,10 +12,10 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://www.yancyyu.club/',
-  title: "yancyyu's blog",
-  subtitle: '🚀 BLOG- Built using YancyYu with ❤',
-  description: '🚀 BLOG- Awesome Blog Starter, Built using SYancyYu with ❤',
+  url: 'https://blog-yancyuu.vercel.app',
+  title: 'QWER',
+  subtitle: '🚀 QWER - Built using Svelte with ❤',
+  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
@@ -31,7 +31,7 @@ export const siteConfig: Site.Config = {
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://www.yancyyu.club/',
+    website: 'https://blog-yancyuu.vercel.app',
     github: 'https://github.com/yancyuu/',
     email: 'contact@yancyyu.dev',
     bio: `Peace begins <br/> With a smile`,
