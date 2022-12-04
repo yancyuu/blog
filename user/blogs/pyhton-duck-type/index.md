@@ -3,6 +3,7 @@ title: python进阶之鸭子类型（进阶篇）
 published: '2022-12-04T07:45:00.000+08:00'
 summary: ✍️ 本文主要介绍如何用python的魔法函数来实现自定义类，所需基础可参考之前内容
 cover: ./cover.jpg
+language: 中文
 tags:
   - [Markdown]
   - [python]
@@ -21,7 +22,7 @@ tags:
 - 可以作为参数传递给函数
 - 可以当做函数的返回值
 
-![实现机制图](/pyhton-duck-type/cover.jpg)
+![实现机制图](.cover.jpg)
 
  静态语言中将类加载到内存中运行的时候，类是不可修改的，因为已经编译完成。python为动态语言，全面向对象编程：所有得类都是type的实例，除object来其他类都继承object类，都是可以修改的。
 
