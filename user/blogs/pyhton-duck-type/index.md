@@ -1,5 +1,6 @@
 ---
 title: python进阶之鸭子类型（进阶篇）
+published: '2022-12-04T07:45:00.000+08:00'
 summary: ✍️ 本文主要介绍如何用python的魔法函数来实现自定义类，所需基础可参考之前内容
 cover: ./cover.jpg
 tags:
