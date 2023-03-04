@@ -179,7 +179,7 @@ unittest模块是Python中一个非常有用的测试框架，它提供了一组
 
 ## ✨补充：
 
-- 我的[个人博客](https://bbc.github.io/cloudfit-public-docs/asyncio/asyncio-part-1)。
+- 我的[个人博客](https://blog-yancyuu.vercel.app/)。
 - 🚀 不定时分享干货，有兴趣的可以关注我公众号。
 
 <div align="center"><img src="https://my-bucket-1259813675.cos-website.ap-guangzhou.myqcloud.com/wordpress/2022/05/20220504120500968-300x300.jpg">

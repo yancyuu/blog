@@ -1,6 +1,6 @@
 ---
-title:✍ vscode将被Fleet取代？
-summary: JetBrain Fleet是一款由JetBrains开发的云端集成开发环境（Cloud Integrated Development Environment，简称IDE）。
+title:vscode将被Fleet取代?
+summary: ✍ JetBrain Fleet是一款由JetBrains开发的云端集成开发环境(Cloud Integrated Development Environment,简称IDE)
 published: '2022-12-17T05:20:00.000+08:00'
 cover: ./fleet.png
 tags:
