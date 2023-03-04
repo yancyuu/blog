@@ -3,7 +3,6 @@ title: 开源又可拓展的爬虫工具，目测要火！
 summary: ✍ 推荐一个开源的项目，用于爬虫的代理
 published: '2022-12-11T03:45:00.000+08:00'
 cover: ./proxy.png
-coverStyle: 'TOP'
 tags:
   - [Markdown]
   - [tool]
