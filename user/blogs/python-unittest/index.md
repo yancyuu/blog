@@ -1,8 +1,7 @@
 ---
 title: python进阶之unittest模块的使用（实用篇）
-summary: ✍️ 在编写Python代码时，测试是不可或缺的。使用测试可以有效地减少Bug并提高代码质量。Python自带了一个内置的测试框架——unittest模块，它可以帮助我们编写和运行测试用例。
-unittest模块的基础
-published: '2023-03-04T14:49:00.000+08:00'
+summary: ✍️ 在编写Python代码时，测试是不可或缺的。使用测试可以有效地减少Bug并提高代码质量。Python自带了一个内置的测试框架——unittest模块，它可以帮助我们编写和运行测试用例。unittest模块的基础
+published: '2023-03-04T06:49:00.000+08:00'
 cover: ./cover.jpg
 coverStyle: 'TOP'
 tags:
