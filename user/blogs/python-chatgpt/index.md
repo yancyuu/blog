@@ -3,7 +3,6 @@ title: 手把手教你接入chatgpt微信聊天机器人
 summary: ✍️ 聊天机器人一直是人工智能领域最令人着迷的应用之一。现在，借助OpenAI的ChatGPT模型，我们可以创建一个非常强大的聊天机器人，并且用Python来接入它！
 published: '2023-03-15T14:14:00.000+08:00'
 cover: ./cover.jpg
-coverStyle: 'TOP'
 tags:
   - [ChatGPT]
   - [python]
