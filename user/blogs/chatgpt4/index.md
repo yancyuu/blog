@@ -1,7 +1,7 @@
 ---
 title: 还在担心失业？有人已经用ChatGPT获得了第一桶金
 summary: ✍ 程序员圈里什么最近最火，当然是到处刷屏的chatGPT,出于好奇也试了下，直接被震惊了 ！！
-published: '2022-12-11T03:37:00.000+08:00'
+published: '2023-03-23T04:37:00.000+08:00'
 cover: ./cover.png
 coverStyle: 'TOP'
 tags:
