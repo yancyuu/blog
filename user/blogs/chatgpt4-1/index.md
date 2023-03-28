@@ -3,7 +3,6 @@ title: Chatgpt4全自动生成代码：程序员预计3年内全部失业？
 summary: ✍️ 在AI时代，AI技术提供的信息消弭了信息不对等裂痕，但是最新的AI技术却让人们感到焦虑！
 published: '2023-03-16T03:05:00.000+08:00'
 cover: ./cover.jpg
-coverStyle: 'TOP'
 tags:
   - [ChatGPT]
   - [python]
