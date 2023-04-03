@@ -2,7 +2,7 @@
 title: ChatGPT大面积被封？别慌手把手教你用平替！！！
 summary: ✍ 这两天ChatGPT又在搞事情，如果你的ChatGPT这两天暂时没法用，可以先试试新版Bing。据新版Bing所讲，它集成了GPT4技术，效果如何呢？
 published: '2023-03-25T08:43:00.000+08:00'
-cover: ./index.png
+cover: ./cover.png
 coverStyle: 'TOP'
 tags:
   - [Markdown]
@@ -97,7 +97,7 @@ tags:
 #### 常见问题以及解决方案
 1. 新版Bing页面打不开，输入www.bing.com/new 直接跳回到国内版Bing，类似下图：
 
-![](index.png)
+![](cover.png)
 
 解决办法：这是“网络问题”，目前新版Bing访问入口并未向国内开放，要看到新版页面，请先自行解决网络问题。
 
