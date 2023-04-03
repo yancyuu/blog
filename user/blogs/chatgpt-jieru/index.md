@@ -3,7 +3,6 @@ title: Openai如何接入各大第三方平台(微信，钉钉，飞书等)
 summary: ✍ 在ChatGPT大火以后，我利用ChatGPT的接入技术赚了点猫粮钱。
 published: '2023-03-25T08:43:00.000+08:00'
 cover: ./cover.png
-coverStyle: 'TOP'
 tags:
   - [Markdown]
   - [chatGPT]

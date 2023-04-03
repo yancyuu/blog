@@ -1,8 +1,8 @@
 ---
-title: ChatGPT大面积被封，需要平替来看篇就够了！
+title: ChatGPT大面积被封？别慌手把手教你用平替！！！
 summary: ✍ 这两天ChatGPT又在搞事情，如果你的ChatGPT这两天暂时没法用，可以先试试新版Bing。据新版Bing所讲，它集成了GPT4技术，效果如何呢？
 published: '2023-03-25T08:43:00.000+08:00'
-cover: ./cover.png
+cover: ./index.png
 coverStyle: 'TOP'
 tags:
   - [Markdown]
