@@ -3,7 +3,6 @@ title: 手把手教你用ChatGPT打造私人助理！助你面试一臂之力
 summary: ✍ 有了ChatGPT这样的强大工具，我们是否可以利用其特长，让视频创作变得更加简单、更加易于上手呢？让我们一起来探讨如何通过ChatGPT来简化视频创作流程吧！
 published: '2023-04-06T09:35:00.000+08:00'
 cover: ./cover.png
-coverStyle: 'TOP'
 tags:
   - [Markdown]
   - [chatGPT]

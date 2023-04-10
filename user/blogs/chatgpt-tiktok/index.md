@@ -3,7 +3,6 @@ title: 如何使用chatgpt帮助你在TIKTOK变现？
 summary: ✍ 之前我们讨论了如何创作小视频，你是不是第一反应是如何用到抖音，快手这些短视频平台生成视频变现。
 published: '2023-04-05T09:35:00.000+08:00'
 cover: ./cover.png
-coverStyle: 'TOP'
 tags:
   - [Markdown]
   - [chatGPT]
