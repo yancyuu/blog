@@ -3,7 +3,6 @@ title: 一个时代彻底结束了
 summary: ✍️ 恐怖！Gpt5已经看完了人类网络上所有的视频...
 published: '2023-04-13T16:15:00.000+08:00'
 cover: ./cover.jpg
-coverStyle: 'TOP'
 tags:
   - [ChatGPT]
   - [python]

@@ -3,6 +3,7 @@ title: 提高编码效率的7种AI工具，让你轻松生成复杂代码！
 summary: ✍ 对于程序员来说，ChatGPT可能无法完全满足开发者的需求。下面我来介绍给大家7种更专注于编码的AI工具。
 published: '2023-04-24T09:20:00.000+08:00'
 cover: ./cover.png
+coverStyle: 'TOP'
 tags:
   - [Markdown]
   - [chatGPT]
