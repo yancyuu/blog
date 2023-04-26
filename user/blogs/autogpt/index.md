@@ -3,7 +3,6 @@ title: 一夜之间，ChatGPT被AutoGPT取代？
 summary: ✍️ AIGC发展的速度已经远远超过了我们的想象，最近火遍全网的autoGPT一次又一次颠覆了我们的想象。
 published: '2023-04-15T11:59:00.000+08:00'
 cover: ./cover.jpg
-coverStyle: 'TOP'
 tags:
   - [ChatGPT]
   - [python]
